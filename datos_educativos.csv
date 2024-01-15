@@ -1,4 +1,4 @@
-Índice,ID,Pais,Año,Tipo de Dato Educativo,Tasa,Fuente Datos
+Índice,ID,Pais,Anio,Tipo_Educativo,Tasa,Fuente Datos
 432,53,Australia and New Zealand,2005,Tasa Matrícula Primaria (Hombres),101.7,"""United Nations Educational, Scientific and Cultural Organization (UNESCO), Montreal, the UNESCO Institute for Statistics (UIS) statistics database, last accessed April 2023."""
 433,53,Australia and New Zealand,2005,Tasa Matrícula Primaria (Mujeres),102.9,"""United Nations Educational, Scientific and Cultural Organization (UNESCO), Montreal, the UNESCO Institute for Statistics (UIS) statistics database, last accessed April 2023."""
 435,53,Australia and New Zealand,2005,Tasa Matrícula Sec. Baja (Hombres),114.3,"""United Nations Educational, Scientific and Cultural Organization (UNESCO), Montreal, the UNESCO Institute for Statistics (UIS) statistics database, last accessed April 2023."""
